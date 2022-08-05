@@ -1,12 +1,12 @@
 # silk's dotfiles for bspwm on debian
+Including
 #
 
-Including
-	- bspwm
-	- sxhkd
-	- polybar
-	- sxiv
-	- xterm
-	- light
-	- vifm
-	- bashrc
+	- bspwm \
+	- sxhkd \
+	- polybar \
+	- sxiv \
+	- xterm \
+	- light \
+	- vifm \
+	- bashrc \
