@@ -1,6 +1,6 @@
 # silk's dotfiles for bspwm on debian
-Including
 #
+Including:
 	- bspwm 
 	- sxhkd 
 	- polybar 
@@ -9,3 +9,5 @@ Including
 	- light 
 	- vifm 
 	- bashrc 
+#
+
